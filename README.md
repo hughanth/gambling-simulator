@@ -1,3 +1,1 @@
 # gambling-simulator
-
-test

@@ -176,7 +176,8 @@ Our product will be a gambling simulation with multiple casino games for users t
       12. 3 or 11 bets: Same as 2 or 12 bets, but with 3 or 11 for slightly better odds.  
       13. Any 7 bet: If the next roll is a 7, the player wins, and loses on any other roll.  
       14. Any Craps Bets: In craps the numbers 2,3,12 are known as “craps numbers”. In this wager, the player bets the next roll will be one of these numbers.  
-          ![image][./Images/CrapsBets.png]  
+          
+![image](./Images/CrapsBets.png)  
           Payout odds for all bets.
 
 6. Random Number Generation   
@@ -211,7 +212,8 @@ Our product will be a gambling simulation with multiple casino games for users t
 
 1. Main Menu  
 The screen has a background image of the casino lobby. The Main Menu options are aligned vertically on the left side of the screen for easy navigation.  
-![image][./Images/MainMenu.png]
+
+![image](./Images/MainMenu.png)
 
 	1. Enter the Casino: A large button located at the top of the menu. Selecting this option takes the player directly into the 3D casino environment where they can interact with games and other features.  
 	2. Casino Map (optional): This is a drop-down menu, offering a list of available games (like Poker, Blackjack, etc.) with icons for each game. Players can select a game from the list and jump directly to it, bypassing the need to roam the 3D environment.  
@@ -221,12 +223,13 @@ The screen has a background image of the casino lobby. The Main Menu options are
 
 2. Casino Map  
 A map available in the main menu or within the game itself. The menu contains available casino games such as dice, Blackjack, Slots.   
-![image][./Images/CasinoMap.png]  
+![image](./Images/CasinoMap.png)  
 Clicking on a game icon (and then selection from a list for a specific table limit or game) will take the player directly to that game’s area in the casino without needing to explore the entire 3D environment.
 
 3. Options Menu  
 When selected, a pop-up box appears. This box is divided into categories that appear as tabs on the left-hand side, with specific settings displayed on the right when each tab is selected.  
-![image][./Image/OptionsMenu.png]
+
+![image](./Image/OptionsMenu.png)
 
 	1. Controls/Key Bindings: Allows players to customize the movement controls (e.g., WASD for movement) and interaction keys (like spacebar or enter for actions).Players can configure game-specific controls depending on the games (e.g., card controls for Poker).  
 	2. Customization:Adjusts the appearance of various in-game elements, such as the color and design of chips, cards, and tables. Also allows players to set custom win/loss sounds.  
@@ -237,7 +240,8 @@ When selected, a pop-up box appears. This box is divided into categories that ap
 4. Help Menu  
 The Help Menu consists of text-based instructions and simple icons to provide visual aid.  
 The menu may include tabs or buttons to access guides for different games (e.g., Blackjack, Craps, Slots).  
-![image][./Images/HelpMenu.png]
+
+![image](./Images/HelpMenu.png)
 
 	1. Gameplay: General instructions for controlling the player character in the casino (e.g., moving, interacting with objects) and navigating the environment.  
 	2. How to Play Each Available Game: Step-by-step instructions for playing the available casino games, including rules and controls for each game.
@@ -245,7 +249,8 @@ The menu may include tabs or buttons to access guides for different games (e.g.,
 5. Pause Menu
 
 When the game is paused (e.g., by pressing “Esc”), the Pause Menu appears on the left side of the screen.  
-![image][./Images/PauseMenu.png]
+
+![image](./Images/PauseMenu.png)
 
 	1. Resume: Allows the player to return to the ongoing game.  
 	2. Customize: Provides access to customization options for chips, cards, and table visuals during gameplay.  
@@ -267,7 +272,8 @@ Interacting with Game Tables: As the player approaches a game table, an interact
 
 3. In-Game HUD (Heads-Up Display)  
 Once inside the casino environment or a game, the player will have access to the HUD.   
-![image][./Images/HUD.png]
+
+![image](./Images/HUD.png)
 
 	1. Basic controls are shown in the bottom right corner such as movement and interaction keys.  
 	2. Player’s Current Currency/Balance is displayed on the top right corner, this shows how much in-game money the player has to gamble with.  
@@ -277,7 +283,8 @@ When engaging in a specific game, the HUD will display relevant information such
 
 4. Game-Specific Controls  
 When the player enters a game, they are presented with unique controls and options based on the game type. Use Arrow Keys or Mouse to select the desired action.  
-![image][./Images/BlackJackHud.png]
+
+![image](./Images/BlackJackHud.png)
 
 	1. Blackjack: buttons appear at the bottom of the screen. Adjust betting amounts with a slider, clicking on available chips (5, 10, 25, etc.) or by entering the amount.  
    		1. Hit: Draw another card.  

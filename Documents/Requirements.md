@@ -229,7 +229,7 @@ Clicking on a game icon (and then selection from a list for a specific table lim
 3. Options Menu  
 When selected, a pop-up box appears. This box is divided into categories that appear as tabs on the left-hand side, with specific settings displayed on the right when each tab is selected.  
 
-![image](./Image/OptionsMenu.png)
+![image](./Images/OptionsMenu.png)
 
 	1. Controls/Key Bindings: Allows players to customize the movement controls (e.g., WASD for movement) and interaction keys (like spacebar or enter for actions).Players can configure game-specific controls depending on the games (e.g., card controls for Poker).  
 	2. Customization:Adjusts the appearance of various in-game elements, such as the color and design of chips, cards, and tables. Also allows players to set custom win/loss sounds.  
@@ -284,7 +284,7 @@ When engaging in a specific game, the HUD will display relevant information such
 4. Game-Specific Controls  
 When the player enters a game, they are presented with unique controls and options based on the game type. Use Arrow Keys or Mouse to select the desired action.  
 
-![image](./Images/BlackJackHud.png)
+![image](./Images/BlackJackHUD.png)
 
 	1. Blackjack: buttons appear at the bottom of the screen. Adjust betting amounts with a slider, clicking on available chips (5, 10, 25, etc.) or by entering the amount.  
    		1. Hit: Draw another card.  
